@@ -1,0 +1,41 @@
+﻿Date,Type,Amount,Direction,Counterparty,Country,Notes
+1/4/2025,Wire,24900,In,Helion Group Ltd,Cyprus,No invoice
+1/5/2025,Wire,18700,In,Tigran Import Solutions,Armenia,No relationship
+1/7/2025,Wire,32500,In,Deniz Trading FZE,Turkey,High-risk industry
+1/9/2025,Wire,41200,In,Far East Logistics HK,Hong Kong,No trade docs
+1/11/2025,Wire,19850,In,Helion Group Ltd,Cyprus,2nd wire
+1/12/2025,Wire,27100,In,Qamar Global Exports,UAE,No reason provided
+1/14/2025,Wire,16900,In,Tigran Import Solutions,Armenia,Repeated small wires
+1/16/2025,Wire,28400,In,Helion Group Ltd,Cyprus,Pattern emerging
+1/18/2025,Wire,33900,In,Araz Industrial LTD,Georgia,New counterparty
+1/20/2025,Wire,21500,In,Far East Logistics HK,Hong Kong,Similar amounts
+1/22/2025,Wire,14750,In,Qamar Global Exports,UAE,No purpose
+1/23/2025,Wire,29200,In,Tigran Import Solutions,Armenia,Structuring pattern
+1/24/2025,Wire,17950,In,Araz Industrial LTD,Georgia,No documentation
+1/26/2025,Wire,25800,In,Helion Group Ltd,Cyprus,High velocity
+1/28/2025,Wire,39100,In,Far East Logistics HK,Hong Kong,No shipment record
+1/29/2025,Wire,22400,In,Qamar Global Exports,UAE,High-risk corridor
+1/30/2025,Wire,30300,In,Araz Industrial LTD,Georgia,No importer number
+2/1/2025,Wire,18200,In,Deniz Trading FZE,Turkey,Round tripping suspected
+2/2/2025,Wire,27900,In,Helion Group Ltd,Cyprus,5th total
+1/5/2025,Wire,24500,Out,Horizon Capital Partners,BVI,Sent within 12 hours
+1/7/2025,Wire,18400,Out,Meridian Holdings Inc,Cayman Islands,Pass-through
+1/8/2025,Wire,32200,Out,Orion Overseas SA,Panama,No stated purpose
+1/10/2025,Wire,40900,Out,Horizon Capital Partners,BVI,Repeated
+1/12/2025,Wire,19400,Out,SilverWave Group,Seychelles,Offshore layering
+1/13/2025,Wire,26900,Out,Meridian Holdings Inc,Cayman Islands,Rapid movement
+1/15/2025,Wire,29500,Out,Orion Overseas SA,Panama,No business logic
+1/17/2025,Wire,33600,Out,SilverWave Group,Seychelles,Offshore w/out docs
+1/19/2025,Wire,21200,Out,Horizon Capital Partners,BVI,Round-tripping
+1/21/2025,Wire,14500,Out,Meridian Holdings Inc,Cayman Islands,No invoice
+1/23/2025,Wire,27300,Out,Orion Overseas SA,Panama,Same-day matching
+1/25/2025,Wire,16900,Out,SilverWave Group,Seychelles,Smurf-like outflow
+1/26/2025,Wire,25500,Out,Horizon Capital Partners,BVI,"Matches incoming 25,800"
+1/27/2025,Wire,38900,Out,Meridian Holdings Inc,Cayman Islands,High value
+1/28/2025,Wire,21900,Out,Orion Overseas SA,Panama,High velocity
+1/30/2025,Wire,30100,Out,SilverWave Group,Seychelles,Offshore layering
+1/31/2025,Wire,22100,Out,Horizon Capital Partners,BVI,Pattern repeating
+2/1/2025,Wire,17900,Out,Meridian Holdings Inc,Cayman Islands,No trade activity
+2/2/2025,Wire,27500,Out,Orion Overseas SA,Panama,End-of-month push
+2/3/2025,Wire,18000,Out,SilverWave Group,Seychelles,Low balance left
+2/4/2025,Wire,26800,Out,Horizon Capital Partners,BVI,Closes cycle
