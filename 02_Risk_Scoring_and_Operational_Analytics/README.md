@@ -1,6 +1,6 @@
 # Risk Scoring & Operational Analytics (Case 2)
 
-## Case Snapshot (Recruiter Quick View)
+## Case Snapshot 
 
 **Domain:** Fraud Risk / Financial Crime Analytics  
 **Tools:** Excel (advanced formulas, structured tables, dashboards, scenario testing)  
@@ -67,8 +67,8 @@ The dashboard translates model outputs into **operationally meaningful metrics**
 These visuals are designed for **risk managers and analysts**, not data scientists.
 
 **Screenshots:**
-- `screenshots/dashboard_overview.png`
-- `screenshots/risk_driver_analysis.png`
+- ![Dashboard Overview](screenshots/dashboard_overview.png)
+- ![Risk Driver Analysis](screenshots/risk_driver_analysis.png)
 
 ---
 
