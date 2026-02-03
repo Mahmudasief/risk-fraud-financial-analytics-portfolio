@@ -52,7 +52,7 @@ Demonstrates Excel-based risk scoring and transaction pattern analysis using
 standardized decision logic to support consistent, scalable risk assessment
 without reliance on dashboards or IT teams.
 
-### [Case 3: KYC & Compliance Operations](03_KYC_and_Compliance_Operations/)
+### [Case 3: KYC Compliance and Control Operations](03_KYC_and_Compliance_Operations/)
 Covers KYC and CDD review procedures for higher-risk entities, highlighting
 documentation discipline, procedural consistency, and regulator-safe onboarding
 decisions.
@@ -64,4 +64,6 @@ decisions.
 - Primary tool: Microsoft Excel
 - OSINT sources and public registries for contextual verification
 - Written analysis and investigation summaries
+- Policy-driven decision frameworks and control documentation
+
 
